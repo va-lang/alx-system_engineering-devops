@@ -7,3 +7,5 @@ This directory contains shell scripts for learning and practicing the basics of 
 Prints the absolute path of the current working directory.
 
 ## 1-list_files
+
+This script assumes you have appropriate permissions to list the contents of the current directory.
